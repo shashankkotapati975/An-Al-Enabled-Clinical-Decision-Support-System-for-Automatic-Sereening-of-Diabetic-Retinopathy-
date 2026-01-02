@@ -7,6 +7,6 @@ Project Domain :Artificial Intelligence
 
 Tech Stack :Python,TensorFlow/keras,OpenCV,Numpy and Pandas.
 
-Modules:This Project contains two modules
+Modules:This Project contains two modules:
 Module 1: To develop an improved CNN architecture and algorithm for automatic detection and classification of DR.
 Module 2: To develop a hybrid deep learning architecture which combines CNN (Convolutional Neural Network) and LSTM (Long Short Term Memory) for improving DR detection performance.
